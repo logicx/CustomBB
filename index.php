@@ -5,7 +5,7 @@ include("config/init.php");
 ?>
 <html>
 	<head>
-		<title>CustomBB</title>
+		<title>CustomBBS</title>
 		<link rel="stylesheet" type="text/css" href="style.css"/>
 	</head>
 	
